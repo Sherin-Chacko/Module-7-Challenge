@@ -20,3 +20,4 @@ c) Retiring_titles:
 <img width="218" alt="Screen Shot 2021-11-25 at 2 08 16 PM" src="https://user-images.githubusercontent.com/91294352/143491449-959e64a0-0db2-4e11-a205-8ccfc386337f.png">
 
 d) Mentorship_eligibility:
+<img width="712" alt="Screen Shot 2021-11-25 at 2 09 35 PM" src="https://user-images.githubusercontent.com/91294352/143491566-f52ba61e-956a-4806-b2d8-458e32f8003f.png">
