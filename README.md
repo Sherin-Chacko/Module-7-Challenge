@@ -14,7 +14,9 @@ a) Retirement_titles:
 <img width="717" alt="Screen Shot 2021-11-25 at 2 03 32 PM" src="https://user-images.githubusercontent.com/91294352/143491133-9bea4436-519d-40cb-ac06-f1ffa41c6ce0.png">
 
 b) Unique_titles:
+<img width="461" alt="Screen Shot 2021-11-25 at 2 06 20 PM" src="https://user-images.githubusercontent.com/91294352/143491300-2829883c-efbf-4016-994c-8a960816e76c.png">
 
-c) Retring_titles:
+c) Retiring_titles:
+
 
 d) Mentorship_eligibility:
