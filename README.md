@@ -10,7 +10,8 @@ To determine the number of retiring employees per title, and identify employees 
     
 ## 2) Results: 
 
-a) Retirement_titles:
+a) Retirement_titles:  
+<img width="717" alt="Screen Shot 2021-11-25 at 2 03 32 PM" src="https://user-images.githubusercontent.com/91294352/143491133-9bea4436-519d-40cb-ac06-f1ffa41c6ce0.png">
 
 b) Unique_titles:
 
