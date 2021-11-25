@@ -30,5 +30,6 @@ d) Mentorship_eligibility:
 ** Based on the criteria "employees born between 1952 and 1955", there are 90,396 employees who are likely to retire soon.
 ** Based on the criteria given for employees born in 1965 and have current roles - From the mentorship program table we can run a SELECT COUNT statement to get the number of employees that are available for the mentorship role. The Result is 1,549.
 
+<img width="328" alt="Screen Shot 2021-11-25 at 2 54 47 PM" src="https://user-images.githubusercontent.com/91294352/143495231-5dfc61c3-9adc-4505-9350-a0253ab53e17.png">
 
 Based on the criteria given we can find retirement count by department and also count of eligible mentorship available. So, more Senior and experienced employees should be given mentorship. So, junior employees can be trained efficiently for seniority roles.
