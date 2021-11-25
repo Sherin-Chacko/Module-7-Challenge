@@ -29,6 +29,7 @@ d) Mentorship_eligibility:
 
 ** Based on the criteria given for employees born in 1965 and 1955, we can run a SELECT COUNT statement to get the number of retirees by title. The Result is 90,398.
 
+<img width="331" alt="Screen Shot 2021-11-25 at 3 08 53 PM" src="https://user-images.githubusercontent.com/91294352/143496331-d76ea786-0315-4287-95b3-909d479d07ab.png">
 
 
 ** Based on the criteria given for employees born in 1965 and have current roles - From the mentorship program table we can run a SELECT COUNT statement to get the number of employees that are available for the mentorship role. The Result is 1,549.
