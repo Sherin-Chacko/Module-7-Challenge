@@ -36,4 +36,5 @@ d) Mentorship_eligibility:
 
 <img width="328" alt="Screen Shot 2021-11-25 at 2 54 47 PM" src="https://user-images.githubusercontent.com/91294352/143495231-5dfc61c3-9adc-4505-9350-a0253ab53e17.png">
 
-
+** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
