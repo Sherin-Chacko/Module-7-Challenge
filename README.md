@@ -43,3 +43,4 @@ We can view this data from the table created "roles_to_fill" as shown below:
 ** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 We can gather this data from qualified_staff table created as shown below:
 
+<img width="362" alt="Screen Shot 2021-11-28 at 11 46 48 AM" src="https://user-images.githubusercontent.com/91294352/143777750-00c7db96-90b0-4d45-a862-9facfe0b2500.png">
